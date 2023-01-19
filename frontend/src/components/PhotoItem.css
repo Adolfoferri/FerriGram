@@ -1,0 +1,18 @@
+.photo-item img {
+  width: 100%;
+}
+
+#home .photo-item h2 {
+  margin-bottom: 0.2em;
+  color: black;
+}
+
+.photo-author {
+  text-align: left;
+  color: black;
+}
+
+.photo-author a {
+  font-weight: bold;
+  color: black;
+}
